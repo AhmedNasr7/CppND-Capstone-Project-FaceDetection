@@ -51,5 +51,23 @@ The executable will be placed in the `build` directory. From within `build`, you
 
 
 
+## Project Structure 
 
+* Under the face-detector directory:
+	
+	* src/facedetector.h
+	  * The header file for the facedetector class that encapsulates all the pipeline code.
+	  * Contains class data members declarations & class methods prototypes.
+
+	* src/facedetector.cpp
+	  * The code file for the facedetector class that encapsulates all the pipeline code.
+	  * Contains class methods definitions.
+
+	* src/main.cpp
+	  * Program main.
+	  * Declare the image path variable.
+	  * Instantiate the faceDetector class.
+	  * call the object detect method to run the detection algorithm and draw boxes.
+	  * call show_img method to show image
+	  * print out the number of faces in the image.
 

@@ -19,11 +19,10 @@ class FaceDetector
 {
 
 public:
-    FaceDetector(const std::string &img_path, const std::string &cascade);
-    void detect();
+    FaceDetector(const std::string &img_path, const std::string &cascade); // constructor
+    void detect(); 
     void show_img();
     int get_number_of_faces();
-    
     
     
 

@@ -48,7 +48,7 @@ make
 The executable will be placed in the `build` directory. From within `build`, you can run the project as follows:
 ```
 ./face-detector
-
+```
 
 
 ## Project Structure 

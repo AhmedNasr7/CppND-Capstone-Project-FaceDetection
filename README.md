@@ -29,7 +29,7 @@ git clone https://github.com/AhmedNasr7/CppND-Capstone-Project-FaceDetection
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 * OpenCV >= 4.1
   * The complete installation instructions for all operating systems can be found [here](https://www.learnopencv.com/opencv-installation-on-ubuntu-macos-windows-and-raspberry-pi/)
-  * This library must be built from source, The OpenCV 4.1.0 source code can be found [here] (https://github.com/opencv/opencv/tree/4.1.0)
+  * This library must be built from source, The OpenCV 4.1.0 source code can be found [here](https://github.com/opencv/opencv/tree/4.1.0)
 
 ## Compiling and Running
 

@@ -10,13 +10,16 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 link_directories(${OpenCV_LIBRARY_DIRS})
 add_definitions(${OpenCV_DEFINITIONS})
 
-add_executable(face-detector 
-				src/main.cpp
-                src/img.cpp)
-target_link_libraries(face-detector ${OpenCV_LIBRARIES})
 
 # Find all executables
 file(GLOB project_SRCS src/*.cpp) #src/*.h
+
+
+add_executable(${PROJECT_NAME} 
+				${project_SRCS})
+
+                
+target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBRARIES})
 
 
 set(
@@ -29,7 +32,7 @@ target_include_directories(
  )
  
 target_link_libraries(
-    face-detector
+    ${PROJECT_NAME}
     ${OpenCV_LIBRARIES}
     )
 

@@ -1,11 +1,11 @@
 #include "facedetector.h"
 
 
-FaceDetector::FaceDetector(const &std::string cascade)
+FaceDetector::FaceDetector(const std::string cascade)
 {
     _cascade_name = cascade;
 
-    if(!face_cascade.load(cascade_name)){ std::cout << "--(!)Error loading\n";}
+    if(!_face_cascade.load(_cascade_name)){ std::cout << "--(!)Error loading\n";}
 
     /*8 colors collection*/
     /*

@@ -6,7 +6,7 @@ The facial detection is based on Viola-Jones object detection algorithm which is
 
 For more information about Viola-Jones algorithms check the following resources [here](https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework) and [here](https://towardsdatascience.com/the-intuition-behind-facial-detection-the-viola-jones-algorithm-29d9106b6999)
 
-<img src="face-detection.png" width="650" height="400" />
+<img src="face-detection-demo.png" width="650" height="400" />
 
 
 ## Cloning

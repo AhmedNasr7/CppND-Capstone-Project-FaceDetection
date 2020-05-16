@@ -17,19 +17,23 @@ using namespace cv;
 
 class FaceDetector
 {
+
 public:
-    FaceDetector(const std::string img_path, const std::string cascade);
+    FaceDetector(const std::string &img_path, const std::string &cascade);
     void detect();
-    void show_img(Mat img);
-
-
-
+    void show_img();
+    int get_number_of_faces();
+    
+    
+    
 
 private:
     std::string _cascade_name;
     Mat frame;
+    Mat _result_img;
     CascadeClassifier  _face_cascade;
     std::vector<Rect>  _foundFaces;
+    int _faces_num;
     std::vector<CvScalar> _colorsCol;
 };
 

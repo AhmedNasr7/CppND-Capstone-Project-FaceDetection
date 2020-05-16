@@ -28,28 +28,28 @@ The CXX compiler identification is GNU, found in "/home/workspace/CppND-Capstone
 Determining if the C compiler works passed with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_73665/fast"
-/usr/bin/make -f CMakeFiles/cmTC_73665.dir/build.make CMakeFiles/cmTC_73665.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_ee7cb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ee7cb.dir/build.make CMakeFiles/cmTC_ee7cb.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_73665.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_73665.dir/testCCompiler.c.o   -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_73665
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_73665.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_73665.dir/testCCompiler.c.o  -o cmTC_73665 
+Building C object CMakeFiles/cmTC_ee7cb.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_ee7cb.dir/testCCompiler.c.o   -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_ee7cb
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ee7cb.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_ee7cb.dir/testCCompiler.c.o  -o cmTC_ee7cb 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_fc020/fast"
-/usr/bin/make -f CMakeFiles/cmTC_fc020.dir/build.make CMakeFiles/cmTC_fc020.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_77896/fast"
+/usr/bin/make -f CMakeFiles/cmTC_77896.dir/build.make CMakeFiles/cmTC_77896.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.13/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_fc020
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc020.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o  -o cmTC_fc020 
+Building C object CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.13/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_77896
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_77896.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o  -o cmTC_77896 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -59,8 +59,8 @@ Thread model: posix
 gcc version 5.5.0 20171010 (Ubuntu 5.5.0-12ubuntu1~16.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fc020' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccromhu9.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_fc020 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_77896' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccx3uNDp.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_77896 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
@@ -68,14 +68,14 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_fc020/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_fc020.dir/build.make CMakeFiles/cmTC_fc020.dir/build]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_77896/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_77896.dir/build.make CMakeFiles/cmTC_77896.dir/build]
   ignore line: [make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_fc020]
-  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc020.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o  -o cmTC_fc020 ]
+  ignore line: [Building C object CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o   -c /usr/local/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_77896]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_77896.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o  -o cmTC_77896 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -85,13 +85,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.5.0 20171010 (Ubuntu 5.5.0-12ubuntu1~16.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fc020' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccromhu9.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_fc020 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_77896' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccx3uNDp.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_77896 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccromhu9.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccx3uNDp.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -108,7 +108,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_fc020] ==> ignore
+    arg [cmTC_77896] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -120,7 +120,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_fc020.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_77896.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -152,14 +152,14 @@ Parsed C implicit link information from above output:
 Detecting C [-std=c11] compiler features compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e10c9/fast"
-/usr/bin/make -f CMakeFiles/cmTC_e10c9.dir/build.make CMakeFiles/cmTC_e10c9.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_86592/fast"
+/usr/bin/make -f CMakeFiles/cmTC_86592.dir/build.make CMakeFiles/cmTC_86592.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_e10c9.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_e10c9.dir/feature_tests.c.o   -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_e10c9
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e10c9.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_e10c9.dir/feature_tests.c.o  -o cmTC_e10c9 
+Building C object CMakeFiles/cmTC_86592.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_86592.dir/feature_tests.c.o   -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_86592
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_86592.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_86592.dir/feature_tests.c.o  -o cmTC_86592 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
@@ -172,14 +172,14 @@ make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection
 Detecting C [-std=c99] compiler features compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_ac6d9/fast"
-/usr/bin/make -f CMakeFiles/cmTC_ac6d9.dir/build.make CMakeFiles/cmTC_ac6d9.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_00dff/fast"
+/usr/bin/make -f CMakeFiles/cmTC_00dff.dir/build.make CMakeFiles/cmTC_00dff.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_ac6d9.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_ac6d9.dir/feature_tests.c.o   -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_ac6d9
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ac6d9.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_ac6d9.dir/feature_tests.c.o  -o cmTC_ac6d9 
+Building C object CMakeFiles/cmTC_00dff.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_00dff.dir/feature_tests.c.o   -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_00dff
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_00dff.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_00dff.dir/feature_tests.c.o  -o cmTC_00dff 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
@@ -192,14 +192,14 @@ make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection
 Detecting C [-std=c90] compiler features compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_57cd1/fast"
-/usr/bin/make -f CMakeFiles/cmTC_57cd1.dir/build.make CMakeFiles/cmTC_57cd1.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_07e88/fast"
+/usr/bin/make -f CMakeFiles/cmTC_07e88.dir/build.make CMakeFiles/cmTC_07e88.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_57cd1.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_57cd1.dir/feature_tests.c.o   -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_57cd1
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_57cd1.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_57cd1.dir/feature_tests.c.o  -o cmTC_57cd1 
+Building C object CMakeFiles/cmTC_07e88.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_07e88.dir/feature_tests.c.o   -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_07e88
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_07e88.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_07e88.dir/feature_tests.c.o  -o cmTC_07e88 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
@@ -210,28 +210,28 @@ make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b8686/fast"
-/usr/bin/make -f CMakeFiles/cmTC_b8686.dir/build.make CMakeFiles/cmTC_b8686.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_86c38/fast"
+/usr/bin/make -f CMakeFiles/cmTC_86c38.dir/build.make CMakeFiles/cmTC_86c38.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_b8686.dir/testCXXCompiler.cxx.o
-/usr/bin/g++-7     -o CMakeFiles/cmTC_b8686.dir/testCXXCompiler.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_b8686
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b8686.dir/link.txt --verbose=1
-/usr/bin/g++-7       CMakeFiles/cmTC_b8686.dir/testCXXCompiler.cxx.o  -o cmTC_b8686 
+Building CXX object CMakeFiles/cmTC_86c38.dir/testCXXCompiler.cxx.o
+/usr/bin/g++-7     -o CMakeFiles/cmTC_86c38.dir/testCXXCompiler.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_86c38
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_86c38.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_86c38.dir/testCXXCompiler.cxx.o  -o cmTC_86c38 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_6ba64/fast"
-/usr/bin/make -f CMakeFiles/cmTC_6ba64.dir/build.make CMakeFiles/cmTC_6ba64.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_59fe9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_59fe9.dir/build.make CMakeFiles/cmTC_59fe9.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/g++-7     -o CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_6ba64
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6ba64.dir/link.txt --verbose=1
-/usr/bin/g++-7      -v CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_6ba64 
+Building CXX object CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/g++-7     -o CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_59fe9
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_59fe9.dir/link.txt --verbose=1
+/usr/bin/g++-7      -v CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_59fe9 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/g++-7
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -243,9 +243,9 @@ Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~16.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_6ba64' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccXiZtjO.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_6ba64 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtend.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_6ba64' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_59fe9' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc8INASX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_59fe9 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtend.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_59fe9' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
@@ -253,14 +253,14 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_6ba64/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_6ba64.dir/build.make CMakeFiles/cmTC_6ba64.dir/build]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_59fe9/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_59fe9.dir/build.make CMakeFiles/cmTC_59fe9.dir/build]
   ignore line: [make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/g++-7     -o CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_6ba64]
-  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6ba64.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/g++-7      -v CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_6ba64 ]
+  ignore line: [Building CXX object CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/g++-7     -o CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_59fe9]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_59fe9.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/g++-7      -v CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_59fe9 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/g++-7]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -272,13 +272,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~16.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_6ba64' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccXiZtjO.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_6ba64 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtend.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_59fe9' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc8INASX.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_59fe9 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtend.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccXiZtjO.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc8INASX.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -294,7 +294,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_6ba64] ==> ignore
+    arg [cmTC_59fe9] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbegin.o] ==> ignore
@@ -306,7 +306,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_6ba64.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_59fe9.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -334,14 +334,14 @@ Parsed CXX implicit link information from above output:
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_69230/fast"
-/usr/bin/make -f CMakeFiles/cmTC_69230.dir/build.make CMakeFiles/cmTC_69230.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_706f4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_706f4.dir/build.make CMakeFiles/cmTC_706f4.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_69230.dir/feature_tests.cxx.o
-/usr/bin/g++-7    -std=c++1z -o CMakeFiles/cmTC_69230.dir/feature_tests.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_69230
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_69230.dir/link.txt --verbose=1
-/usr/bin/g++-7       CMakeFiles/cmTC_69230.dir/feature_tests.cxx.o  -o cmTC_69230 
+Building CXX object CMakeFiles/cmTC_706f4.dir/feature_tests.cxx.o
+/usr/bin/g++-7    -std=c++1z -o CMakeFiles/cmTC_706f4.dir/feature_tests.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_706f4
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_706f4.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_706f4.dir/feature_tests.cxx.o  -o cmTC_706f4 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
@@ -407,14 +407,14 @@ make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7ef61/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7ef61.dir/build.make CMakeFiles/cmTC_7ef61.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_593f8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_593f8.dir/build.make CMakeFiles/cmTC_593f8.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_7ef61.dir/feature_tests.cxx.o
-/usr/bin/g++-7    -std=c++14 -o CMakeFiles/cmTC_7ef61.dir/feature_tests.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_7ef61
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7ef61.dir/link.txt --verbose=1
-/usr/bin/g++-7       CMakeFiles/cmTC_7ef61.dir/feature_tests.cxx.o  -o cmTC_7ef61 
+Building CXX object CMakeFiles/cmTC_593f8.dir/feature_tests.cxx.o
+/usr/bin/g++-7    -std=c++14 -o CMakeFiles/cmTC_593f8.dir/feature_tests.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_593f8
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_593f8.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_593f8.dir/feature_tests.cxx.o  -o cmTC_593f8 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
@@ -480,14 +480,14 @@ make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_fda13/fast"
-/usr/bin/make -f CMakeFiles/cmTC_fda13.dir/build.make CMakeFiles/cmTC_fda13.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_8d25b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8d25b.dir/build.make CMakeFiles/cmTC_8d25b.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_fda13.dir/feature_tests.cxx.o
-/usr/bin/g++-7    -std=c++11 -o CMakeFiles/cmTC_fda13.dir/feature_tests.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_fda13
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fda13.dir/link.txt --verbose=1
-/usr/bin/g++-7       CMakeFiles/cmTC_fda13.dir/feature_tests.cxx.o  -o cmTC_fda13 
+Building CXX object CMakeFiles/cmTC_8d25b.dir/feature_tests.cxx.o
+/usr/bin/g++-7    -std=c++11 -o CMakeFiles/cmTC_8d25b.dir/feature_tests.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_8d25b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d25b.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_8d25b.dir/feature_tests.cxx.o  -o cmTC_8d25b 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 
@@ -553,14 +553,14 @@ make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
 Change Dir: /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_dd981/fast"
-/usr/bin/make -f CMakeFiles/cmTC_dd981.dir/build.make CMakeFiles/cmTC_dd981.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_ad518/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ad518.dir/build.make CMakeFiles/cmTC_ad518.dir/build
 make[1]: Entering directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_dd981.dir/feature_tests.cxx.o
-/usr/bin/g++-7    -std=c++98 -o CMakeFiles/cmTC_dd981.dir/feature_tests.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_dd981
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd981.dir/link.txt --verbose=1
-/usr/bin/g++-7       CMakeFiles/cmTC_dd981.dir/feature_tests.cxx.o  -o cmTC_dd981 
+Building CXX object CMakeFiles/cmTC_ad518.dir/feature_tests.cxx.o
+/usr/bin/g++-7    -std=c++98 -o CMakeFiles/cmTC_ad518.dir/feature_tests.cxx.o -c /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_ad518
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ad518.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_ad518.dir/feature_tests.cxx.o  -o cmTC_ad518 
 make[1]: Leaving directory '/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/build/CMakeFiles/CMakeTmp'
 
 

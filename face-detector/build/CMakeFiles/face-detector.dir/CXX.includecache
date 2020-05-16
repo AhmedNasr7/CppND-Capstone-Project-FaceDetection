@@ -9,6 +9,10 @@
 /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/src/facedetector.cpp
 facedetector.h
 /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/src/facedetector.h
+string
+-
+fstream
+-
 
 /home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/src/facedetector.h
 opencv2/core.hpp
@@ -27,6 +31,10 @@ thread
 -
 string
 -
+
+/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/src/main.cpp
+facedetector.h
+/home/workspace/CppND-Capstone-Project-FaceDetection/face-detector/src/facedetector.h
 
 /usr/local/include/opencv4/opencv2/calib3d.hpp
 opencv2/core.hpp
